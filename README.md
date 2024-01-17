@@ -2,15 +2,22 @@
 
 <ol>
     <li>Tipos de dados no JS</li>
-    <ul>
-        <li>string</li>
-        <li>number</li>
-        <li>boolean</li>
-    </ul>
+        <ul>
+            <li>string</li>
+            <li>number</li>
+            <li>boolean</li>
+        </ul>
     <li>Listas</li>
-    <ul>
-        <li>adicionar elemento</li>
-        <li>remover elemento</li>
-        <li>posição de cada elemento</li>
-    </ul>
+        <ul>
+            <li>adicionar elemento</li>
+            <li>remover elemento</li>
+            <li>posição de cada elemento</li>
+        </ul>
+    <li>
+        <ul>
+            <li>map</li>
+            <li>filter</li>
+            <li>reduce</li>
+        </ul>
+    </li>
 </ol>
