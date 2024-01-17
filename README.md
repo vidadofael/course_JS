@@ -13,11 +13,10 @@
             <li>remover elemento</li>
             <li>posição de cada elemento</li>
         </ul>
-    <li>
+    <li>Métodos</li>
         <ul>
             <li>map</li>
             <li>filter</li>
             <li>reduce</li>
         </ul>
-    </li>
 </ol>
