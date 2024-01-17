@@ -48,3 +48,18 @@ const funcionario = usuarios.map(function(pessoa) {
     )
 })
 
+
+
+//FILTER
+
+const ages = [8, 23, 6, 14, 29, 5, 22];
+//separando as idades pares e ímpares
+const evenAges = ages.filter(function(evage) {
+    return evage % 2 === 0;
+});
+const oddAges = ages.filter(function(odage) {
+    return odage % 2 !== 0;
+});
+
+console.log(evenAges);
+console.log(oddAges);
