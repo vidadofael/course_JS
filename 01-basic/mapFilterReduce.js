@@ -63,3 +63,4 @@ const oddAges = ages.filter(function(odage) {
 
 console.log(evenAges);
 console.log(oddAges);
+console.log(oddAges);
