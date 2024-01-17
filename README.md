@@ -3,7 +3,7 @@
 <ol>
     <li>Tipos de dados no JS</li>
         <ul>
-            <li>string<p style="color: green">x</p></li>
+            <li>string</li>
             <li>number</li>
             <li>boolean</li>
         </ul>
